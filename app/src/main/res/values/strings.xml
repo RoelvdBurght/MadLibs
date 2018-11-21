@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">RoelvdBurght-pset2</string>
+    <string name="adjective">The simplest definition of an adjective is that it is a word that describes or clarifies a noun. Adjectives describe nouns by giving some information about an object\'s size, shape, age, color, origin or material. \n
+                                \n Some Examples are: \n \n
+                                \u2022 Big\t\t\t\u2022 Round \t\t\t\u2022 Old \t\t\t\u2022 Brown
+    </string>
+    <string name="plural_noun"> A plural noun is simply a noun but made plural. A noun is a word that functions as the name of some specific thing or set of things, such as living creatures, objects, places, actions, qualities, states of existence, or ideas.\n
+                                \n Some Examples are: \n \n
+                                \u2022 Trees\t\t\t\u2022 Movies \t\t\t\u2022 Computers \t\t\t\u2022 Dogs
+    </string>
+    <string name="noun">A noun (from Latin nōmen, literally meaning "name") is a word that functions as the name of some specific thing or set of things, such as living creatures, objects, places, actions, qualities, states of existence, or ideas.\n
+                                \n Some Examples are: \n \n
+                                \u2022 Cat\t\t\t\u2022 Table \t\t\t\u2022 Love \t\t\t\u2022 Mount Kilimanjaro
+    </string>
+
+    <string name="button_noun">
+        Eeeeuhrmm... What was a noun again?
+    </string>
+
+    <string name="button_plural_noun">
+        Eeeeuhrmm... What was a plural noun again?
+    </string>
+
+    <string name="button_adjective">
+        Eeeeuhrmm... What was a adjective again?
+    </string>
+
 </resources>
