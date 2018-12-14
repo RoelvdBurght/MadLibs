@@ -16,10 +16,10 @@ die scrollbaar
 Als je klaar bent met het invullen kan je op de knop onderaan het beeld drukken om door te gaan naar
 jouw verhaal.
 
-![alt text](ml_start_portrait.png?raw=true)
-![alt text](ml_start_landscape.png?raw=true)
-![alt text](fillin_in.png?raw=true)
-![alt text](fillin_in_hint.png?raw=true)
-![alt text](fillin_in_hint_landscape.png?raw=true)
-![alt text](ml_finished.png?raw=true)
-![alt text](story.png?raw=true)
+![alt text](doc/ml_start_portrait.png?raw=true)
+![alt text](doc/ml_start_landscape.png?raw=true)
+![alt text](doc/fillin_in.png?raw=true)
+![alt text](doc/fillin_in_hint.png?raw=true)
+![alt text](doc/fillin_in_hint_landscape.png?raw=true)
+![alt text](doc/ml_finished.png?raw=true)
+![alt text](doc/story.png?raw=true)
